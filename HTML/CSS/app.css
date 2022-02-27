@@ -1,0 +1,51 @@
+#divine-comedy {
+background-color:rgb(221, 103, 103);
+}
+table, th, td {
+    border:1px solid rgb(26, 19, 19);
+  }
+  th,td {
+      padding: 5px;
+  }
+#next-page{
+    color: rgb(208, 255, 0);
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+/*dante's inferno */
+#dantes-inferno {
+    background-color:rgb(224, 98, 89);
+    }
+.content {
+    float: left;
+    background-color:rgb(226, 71, 102);
+    border-style: solid;
+    width: 35%;
+    border-width: thin;
+    border-color: #FFFFFF;
+}
+
+#right {
+    float: right;
+}
+.content-1{
+    float: left;
+   
+    
+}
+.para{
+    border-style: solid;
+    background-color: antiquewhite;
+    background-size: auto;
+    border-radius: 1em;
+    border-color: antiquewhite;
+}
+#Page-Editor{
+    float: left;
+}
+#center{
+    float: inline-end;
+    width: 320;
+    height: 460;
+}
